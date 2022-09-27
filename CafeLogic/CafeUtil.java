@@ -1,4 +1,3 @@
-package CafeLogic;
 import java.util.*;
 
 public class CafeUtil {

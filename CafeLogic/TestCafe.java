@@ -1,10 +1,8 @@
-package CafeLogic;
 import java.util.ArrayList;
 import java.util.Arrays;
 public class TestCafe {
     public static void main(String[] args) {
-        
-    CafeUtil appTest = new CafeUtil();
+        CafeUtil appTest = new CafeUtil();
         /* ============ App Test Cases ============= */
     
         System.out.println("\n----- Streak Goal Test -----");
